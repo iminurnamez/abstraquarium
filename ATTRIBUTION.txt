@@ -1,7 +1,10 @@
 Licenses
 
-CC-0
+CC-0                https://creativecommons.org/publicdomain/zero/1.0/legalcode
 CC-BY-3.0        http://creativecommons.org/licenses/by/3.0/legalcode
+
+
+Audio Files
 
 Audio File: lava_loop.wav
 Author: Blender Foundation http://www.yofrankie.org/
