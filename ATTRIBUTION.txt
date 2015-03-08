@@ -1,0 +1,17 @@
+Licenses
+
+CC-0
+CC-BY-3.0        http://creativecommons.org/licenses/by/3.0/legalcode
+
+Audio File: lava_loop.wav
+Author: Blender Foundation http://www.yofrankie.org/
+License: CC-BY-3.0
+
+Audio Files: amb_waterdrip_1, amb_water_drip_4 (converted to .ogg from http://opengameart.org/content/ambient-water-drips )
+Author: Blender Foundation http://www.yofrankie.org/
+License: CC-BY-3.0
+
+
+Audio Files: water_splash-01 - 06 converted to .ogg from .flac
+Author: ezwa http://www.pdsounds.org/user/ezwa
+License: CC-0
